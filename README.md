@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Welcome!&fontSize=90)
 <!--
 **wasori/wasori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
