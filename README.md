@@ -1,15 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Welcome!&fontSize=90)
-<!--
-**wasori/wasori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 꾸준히 성장하는 개발자, wasori입니다.
 
-Here are some ideas to get you started:
+안녕하세요<br>
+저는 끊임없이 성장하는 개발자를 목표로, 다양한 기술을 배우고 실전에서 적용하며 발전해 나가고 있습니다.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현재는 React, TypeScript, Flask, Node.js 등을 활용한 자동매매 시스템을 개발하며,<br>
+웹 트레이딩 및 실시간 데이터 처리에 대한 경험을 쌓아가고 있습니다.
+
+---
+
+🔹 개발 철학
+
+직접 만들어보며 배우는 것이 가장 좋은 학습법이라고 믿습니다.<br>
+단순한 기능 구현을 넘어 더 나은 코드와 확장성 있는 설계를 고민합니다.<br>
+한 줄의 코드도 왜 이렇게 작성해야 하는지 깊이 이해하려고 노력합니다.
+
+----
+
+작은 도전이 쌓여 큰 성장이 된다고 믿습니다.
+앞으로도 꾸준히 배우고, 성장하는 모습을 기록해 나가겠습니다.
